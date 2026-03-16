@@ -1,3 +1,4 @@
+#leitura de valores pelo teclado via console
 p1 = float(input("Digite o preço do produto 1: "))
 p2 = float(input("Digite o preço do produto 2: "))
 p3 = float(input("Digite o preço do produto 3: "))
