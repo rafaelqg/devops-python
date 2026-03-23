@@ -1,0 +1,11 @@
+xstr = input("Informe um numero: ")
+try:
+    x = int(xstr)
+    y = 25/x
+    print("Resultado da divisão: ", y)
+except ValueError as e1:
+        print("Informe um valor numerico")
+        print ("erro:", e1)
+except ZeroDivisionError:
+    print("Erro de divisao por zero")
+
