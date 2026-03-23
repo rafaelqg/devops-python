@@ -1,8 +1,10 @@
-xstr = input("Informe um numero: ")
+ystr = input("Informe um numero do dividendo: ")
+xstr = input("Informe um numero do divisor: ")
 try:
     x = int(xstr)
-    y = 25/x
-    print("Resultado da divisão: ", y)
+    y = int(ystr)
+    resultado = y / x
+    print("Resultado da divisão: ", resultado)
 except ValueError as e1:
         print("Informe um valor numerico")
         print ("erro:", e1)
