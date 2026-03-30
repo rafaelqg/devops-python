@@ -2,7 +2,8 @@
 p1 = float(input("Digite o preço do produto 1: "))
 p2 = float(input("Digite o preço do produto 2: "))
 p3 = float(input("Digite o preço do produto 3: "))
-precoMedio = (p1 + p2 + p3)/3
+p4 = float(input("Digite o preço do produto 4: "))
+precoMedio = (p1 + p2 + p3 + p4)/4
 print(precoMedio)
 
 if( precoMedio < 80 ):
