@@ -10,3 +10,4 @@ def relatorioAvancado():
     print("8 - Relatório de Projetos")
     print("9 - Relatório de Qualidade")
     print("10 - Relatório de Segurança")
+    print("11 - Relatório em PDF")
