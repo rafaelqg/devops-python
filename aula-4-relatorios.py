@@ -1,0 +1,12 @@
+def relatorioAvancado():
+    print("Relatório Avançado")
+    print("1 - Relatório de Vendas")
+    print("2 - Relatório de Estoque")
+    print("3 - Relatório Financeiro")
+    print("4 - Relatório de Clientes")
+    print("5 - Relatório de Fornecedores")
+    print("6 - Relatório de Funcionários")
+    print("7 - Relatório de Marketing")
+    print("8 - Relatório de Projetos")
+    print("9 - Relatório de Qualidade")
+    print("10 - Relatório de Segurança")
